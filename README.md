@@ -1,0 +1,1 @@
+This repository contains seven Object-Oriented Programming (OOP) lab assignments, covering Java fundamentals, classes and objects, inheritance, polymorphism, operator overloading in C++, and Spring Boot applications with PostgreSQL.
